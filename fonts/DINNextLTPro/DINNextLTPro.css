@@ -3,7 +3,7 @@
 	font-style: normal;
 	src:
 		local("DINNextLTPro-Black"),
-		url("DINNextLTPro-Black.otf") format("opentype");
+		url("./DINNextLTPro-Black.otf") format("opentype");
 	unicode-range: "U+0000-00FF", "U+0131", "U+0152-0153", "U+02C6", "U+02DA", "U+02DC", "U+2000-206F", "U+2074", "U+20AC", "U+2212", "U+2215", "U+E0FF", "U+EFFD", "U+F000";
 }
 
@@ -12,7 +12,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-BlackCondensed'),
-		url('DINNextLTPro-BlackCondensed.otf') format("opentype");
+		url('./DINNextLTPro-BlackCondensed.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -21,7 +21,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-BlackItalic'),
-		url('DINNextLTPro-BlackItalic.otf') format("opentype");
+		url('./DINNextLTPro-BlackItalic.otf') format("opentype");
     unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -30,7 +30,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Bold'),
-		url('DINNextLTPro-Bold.otf') format("opentype");
+		url('./DINNextLTPro-Bold.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -39,7 +39,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-BoldCondensed'),
-		url('DINNextLTPro-BoldCondensed.otf') format("opentype");
+		url('./DINNextLTPro-BoldCondensed.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -48,7 +48,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-BoldItalic'),
-		url('DINNextLTPro-BoldItalic.otf') format("opentype");
+		url('./DINNextLTPro-BoldItalic.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -57,7 +57,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Condensed'),
-		url('DINNextLTPro-Condensed.otf') format("opentype");
+		url('./DINNextLTPro-Condensed.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -66,7 +66,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Heavy'),
-		url('DINNextLTPro-Heavy.otf') format("opentype");
+		url('./DINNextLTPro-Heavy.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -75,7 +75,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-HeavyCondensed'),
-		url('DINNextLTPro-HeavyCondensed.otf') format("opentype");
+		url('./DINNextLTPro-HeavyCondensed.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -84,7 +84,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-HeavyItalic'),
-		url('DINNextLTPro-HeavyItalic.otf') format("opentype");
+		url('./DINNextLTPro-HeavyItalic.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -93,7 +93,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Italic'),
-		url('DINNextLTPro-Italic.otf') format("opentype");
+		url('./DINNextLTPro-Italic.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -102,7 +102,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Light'),
-		url('DINNextLTPro-Light.otf') format("opentype");
+		url('./DINNextLTPro-Light.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -111,7 +111,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-LightCondensed'),
-		url('DINNextLTPro-LightCondensed.otf') format("opentype");
+		url('./DINNextLTPro-LightCondensed.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -120,7 +120,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-LightItalic'),
-		url('DINNextLTPro-LightItalic.otf') format("opentype");
+		url('./DINNextLTPro-LightItalic.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -129,7 +129,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Medium'),
-		url('DINNextLTPro-Medium.otf') format("opentype");
+		url('./DINNextLTPro-Medium.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -138,7 +138,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-MediumCond'),
-		url('DINNextLTPro-MediumCond.otf') format("opentype");
+		url('./DINNextLTPro-MediumCond.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -147,7 +147,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-MediumItalic'),
-		url('DINNextLTPro-MediumItalic.otf') format("opentype");
+		url('./DINNextLTPro-MediumItalic.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -156,7 +156,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-Regular'),
-		url('DINNextLTPro-Regular.otf') format("opentype");
+		url('./DINNextLTPro-Regular.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -165,7 +165,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-UltraLight'),
-		url('DINNextLTPro-UltraLight.otf') format("opentype");
+		url('./DINNextLTPro-UltraLight.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -174,7 +174,7 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-UltraLightCond'),
-		url('DINNextLTPro-UltraLightCond.otf') format("opentype");
+		url('./DINNextLTPro-UltraLightCond.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
 
@@ -183,6 +183,6 @@
 	font-style: normal;
 	src:
 		local('DINNextLTPro-UltraLightIt'),
-		url('DINNextLTPro-UltraLightIt.otf') format("opentype");
+		url('./DINNextLTPro-UltraLightIt.otf') format("opentype");
         unicode-range: 'U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F', 'U+2074', 'U+20AC', 'U+2212', 'U+2215', 'U+E0FF', 'U+EFFD', 'U+F000';
 }
